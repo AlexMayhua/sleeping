@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design System Colors - Night Mode -->
+    <color name="design_default_color_primary">#FFBB86FC</color>
+    <color name="design_default_color_primary_variant">#FF6200EE</color>
+    <color name="design_default_color_secondary">#FF03DAC6</color>
+    <color name="design_default_color_secondary_variant">#FF03DAC6</color>
+    <color name="design_default_color_background">#FF121212</color>
+    <color name="design_default_color_surface">#FF1E1E1E</color>
+    <color name="design_default_color_surface_variant">#FF2A2A2A</color>
+    <color name="design_default_color_error">#FFCF6679</color>
+    <color name="design_default_color_on_primary">#FF000000</color>
+    <color name="design_default_color_on_secondary">#FF000000</color>
+    <color name="design_default_color_on_background">#FFFFFFFF</color>
+    <color name="design_default_color_on_surface">#FFFFFFFF</color>
+    <color name="design_default_color_on_error">#FF000000</color>
+    <color name="design_default_color_outline">#FF8A8A8A</color>
+    <color name="design_default_color_outline_variant">#FF404040</color>
+    
+    <!-- Sleep App Specific Colors - Night Mode -->
+    <color name="sleep_primary">#FF90CAF9</color>
+    <color name="sleep_secondary">#FF81C784</color>
+    <color name="sleep_accent">#FFFFB74D</color>
+    <color name="sleep_error">#FFEF5350</color>
+    <color name="sleep_background">#FF121212</color>
+    <color name="sleep_surface">#FF1E1E1E</color>
+    <color name="sleep_card">#FF252525</color>
+    <color name="sleep_divider">#FF404040</color>
+    <color name="sleep_text_primary">#FFFFFFFF</color>
+    <color name="sleep_text_secondary">#FFB0B0B0</color>
+</resources>

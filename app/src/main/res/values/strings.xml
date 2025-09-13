@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Analizador del Sueño</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="nav_header_title">Analizador del Sueño</string>
+    <string name="nav_header_subtitle">Monitoreo inteligente de calidad</string>
+    <string name="nav_header_desc">Encabezado de navegación</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Monitoreo</string>
+    <string name="menu_gallery">Historial</string>
+    <string name="menu_slideshow">Reportes</string>
+</resources>
